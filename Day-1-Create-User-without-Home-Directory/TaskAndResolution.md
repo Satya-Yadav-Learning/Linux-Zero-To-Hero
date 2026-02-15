@@ -2,17 +2,7 @@
 
 ## Task
 
-Create a service user named `mark` on App Server 3 without creating a home directory.
-
----
-
-## Environment
-
-- Server: stapp03
-- User: root
-- OS: Linux
-
----
+Create a service user named `mark` on App Server 3 without creating a home directory
 
 ## Resolution
 
