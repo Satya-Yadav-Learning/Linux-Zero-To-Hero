@@ -2,7 +2,7 @@
 
 ## Task
 
-Create a service user named `mark` on App Server 3 without creating a home directory
+Create a service user named `mark` on App Server without creating a home directory
 
 ## Resolution
 
